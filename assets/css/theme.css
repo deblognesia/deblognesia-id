@@ -110,7 +110,7 @@ section.recent-posts {
 .prevnextlinks .rightborder {
     border-right: 1px solid #eee;
 }
-.navbar-toggleable-md .navbar-nav .nav-link .navbar-brand {
+.navbar-toggleable-md .navbar-nav .nav-link {
     margin-left: 1rem;
     font-weight: 500;
     color: #fff;
@@ -299,6 +299,7 @@ span.post-name a,span.post-read-more a:hover {
 .mediumnavigation .navbar-brand {
 	font-weight:500;
         padding: 0;
+	
 }
 
 .dropdown-item {
